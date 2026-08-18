@@ -73,10 +73,6 @@ It covers areas such as:
 
 The dashboard allows users to interact with the data and look at different aspects of product returns.
 
-## Dashboard Preview
-![E-Commerce Return Analysis Dashboard](E Commerce Return Analysis Dashboard Image.png) 
-
-
 ## Business Problem
 
 E-commerce businesses can experience a high number of product returns without having a clear understanding of why customers are returning their products.
@@ -122,6 +118,10 @@ This repository contains:
 - Power BI dashboard files
 - E-commerce return dataset
 - README documentation
+
+## Dashboard Preview
+
+<img src="E commerce Return Analysis Dashboard Image.png" alt="E-Commerce Return Analysis Dashboard" width="100%" height="auto">
 
 ## Author
 Aishat Abdulkareem
