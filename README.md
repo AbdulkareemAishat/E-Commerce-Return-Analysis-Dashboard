@@ -121,8 +121,10 @@ This repository contains:
 
 ## Dashboard Preview
 
-<img src="E commerce Return Analysis Dashboard Image.png" alt="E-Commerce Return Analysis Dashboard" width="100%" height="auto">
-
+<img src="E%20Commerce%20Return%20Analysis%20Dashboard%20Image.png"
+     alt="E-Commerce Return Analysis Dashboard"
+     width="1000">
+     
 ## Author
 Aishat Abdulkareem
 Aspiring Data Analyst | Excel | Power BI | SQL | Data Analysis
